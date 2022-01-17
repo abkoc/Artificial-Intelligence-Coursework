@@ -1,0 +1,203 @@
+sat
+(model 
+  (define-fun var100 () Bool
+    true)
+  (define-fun var69 () Bool
+    true)
+  (define-fun var34 () Bool
+    true)
+  (define-fun var22 () Bool
+    true)
+  (define-fun var30 () Bool
+    true)
+  (define-fun var71 () Bool
+    false)
+  (define-fun var35 () Bool
+    false)
+  (define-fun var38 () Bool
+    true)
+  (define-fun var47 () Bool
+    true)
+  (define-fun var28 () Bool
+    false)
+  (define-fun var91 () Bool
+    true)
+  (define-fun var12 () Bool
+    true)
+  (define-fun var27 () Bool
+    true)
+  (define-fun var8 () Bool
+    true)
+  (define-fun var36 () Bool
+    false)
+  (define-fun var20 () Bool
+    true)
+  (define-fun var39 () Bool
+    true)
+  (define-fun var66 () Bool
+    true)
+  (define-fun var42 () Bool
+    false)
+  (define-fun var98 () Bool
+    false)
+  (define-fun var65 () Bool
+    true)
+  (define-fun var31 () Bool
+    false)
+  (define-fun var6 () Bool
+    true)
+  (define-fun var73 () Bool
+    false)
+  (define-fun var50 () Bool
+    true)
+  (define-fun var49 () Bool
+    false)
+  (define-fun var79 () Bool
+    true)
+  (define-fun var64 () Bool
+    false)
+  (define-fun var24 () Bool
+    true)
+  (define-fun var96 () Bool
+    true)
+  (define-fun var40 () Bool
+    true)
+  (define-fun var32 () Bool
+    true)
+  (define-fun var43 () Bool
+    true)
+  (define-fun var97 () Bool
+    true)
+  (define-fun var4 () Bool
+    false)
+  (define-fun var78 () Bool
+    true)
+  (define-fun var86 () Bool
+    true)
+  (define-fun var60 () Bool
+    true)
+  (define-fun var68 () Bool
+    false)
+  (define-fun var58 () Bool
+    false)
+  (define-fun var5 () Bool
+    true)
+  (define-fun var94 () Bool
+    false)
+  (define-fun var89 () Bool
+    false)
+  (define-fun var14 () Bool
+    true)
+  (define-fun var23 () Bool
+    true)
+  (define-fun var85 () Bool
+    true)
+  (define-fun var84 () Bool
+    true)
+  (define-fun var21 () Bool
+    true)
+  (define-fun var80 () Bool
+    false)
+  (define-fun var92 () Bool
+    false)
+  (define-fun var2 () Bool
+    true)
+  (define-fun var3 () Bool
+    true)
+  (define-fun var11 () Bool
+    false)
+  (define-fun var53 () Bool
+    true)
+  (define-fun var67 () Bool
+    true)
+  (define-fun var19 () Bool
+    false)
+  (define-fun var45 () Bool
+    true)
+  (define-fun var9 () Bool
+    true)
+  (define-fun var10 () Bool
+    true)
+  (define-fun var26 () Bool
+    true)
+  (define-fun var25 () Bool
+    false)
+  (define-fun var72 () Bool
+    true)
+  (define-fun var81 () Bool
+    true)
+  (define-fun var63 () Bool
+    true)
+  (define-fun var41 () Bool
+    true)
+  (define-fun var15 () Bool
+    true)
+  (define-fun var17 () Bool
+    true)
+  (define-fun var44 () Bool
+    true)
+  (define-fun var1 () Bool
+    false)
+  (define-fun var16 () Bool
+    false)
+  (define-fun var83 () Bool
+    false)
+  (define-fun var61 () Bool
+    true)
+  (define-fun var56 () Bool
+    true)
+  (define-fun var95 () Bool
+    true)
+  (define-fun var57 () Bool
+    true)
+  (define-fun var74 () Bool
+    false)
+  (define-fun var70 () Bool
+    true)
+  (define-fun var46 () Bool
+    true)
+  (define-fun var7 () Bool
+    true)
+  (define-fun var93 () Bool
+    true)
+  (define-fun var62 () Bool
+    false)
+  (define-fun var33 () Bool
+    true)
+  (define-fun var90 () Bool
+    true)
+  (define-fun var55 () Bool
+    true)
+  (define-fun var59 () Bool
+    false)
+  (define-fun var54 () Bool
+    true)
+  (define-fun var99 () Bool
+    true)
+  (define-fun var75 () Bool
+    true)
+  (define-fun var13 () Bool
+    true)
+  (define-fun var52 () Bool
+    false)
+  (define-fun var48 () Bool
+    true)
+  (define-fun var29 () Bool
+    true)
+  (define-fun var88 () Bool
+    true)
+  (define-fun var82 () Bool
+    true)
+  (define-fun var51 () Bool
+    true)
+  (define-fun var87 () Bool
+    true)
+  (define-fun var76 () Bool
+    true)
+  (define-fun var18 () Bool
+    true)
+  (define-fun var77 () Bool
+    false)
+  (define-fun var37 () Bool
+    true)
+)

@@ -1,0 +1,13 @@
+sat
+(model 
+  (define-fun var1 () Bool
+    false)
+  (define-fun var3 () Bool
+    true)
+  (define-fun var2 () Bool
+    true)
+  (define-fun var5 () Bool
+    false)
+  (define-fun var4 () Bool
+    true)
+)
