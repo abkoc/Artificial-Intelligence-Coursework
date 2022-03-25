@@ -8,6 +8,15 @@ Course Work contains 2 homeworks and references
 
 **Introduction:** The problem of determining whether there exists an interpretation that satisfies a given sentence in propositional logic is called as Satisfiability Problem (SAT). The variables of a given boolean formula are consistently assigned to the values TRUE or FALSE, to see whether there is any assignment that makes the formula to evaluate to TRUE. In that case the formula is called satisfiable. If there is no possible assignments that makes the formula true, then it is unsatisfiable.
 
+**Outputs:**
+- Matlab Scripts (.m)
+  - 3-SAT Problem Generator
+  - N-Queens SAT Problem Generator
+  - Scheduling Constraint Satisfiability Problem (CSP) Generator
+    - Specialized for Real Time Programming
+- SAT problems (.txt and .smt2)
+- Solutions to SAT problems (.txt)
+
 
 # Homework 2:
 **The goal:** In this assignment you will learn how to model and solve planning problems.
